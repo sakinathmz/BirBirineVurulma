@@ -1,0 +1,14 @@
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\bin\Debug\net8.0\BirBirineVurulma.exe
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\bin\Debug\net8.0\BirBirineVurulma.deps.json
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\bin\Debug\net8.0\BirBirineVurulma.runtimeconfig.json
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\bin\Debug\net8.0\BirBirineVurulma.dll
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\bin\Debug\net8.0\BirBirineVurulma.pdb
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.AssemblyInfoInputs.cache
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.AssemblyInfo.cs
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.csproj.CoreCompileInputs.cache
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.dll
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\refint\BirBirineVurulma.dll
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.pdb
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\BirBirineVurulma.genruntimeconfig.cache
+C:\MyProjects\BirBirineVurulma\BirBirineVurulma\obj\Debug\net8.0\ref\BirBirineVurulma.dll
